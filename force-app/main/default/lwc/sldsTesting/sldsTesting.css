@@ -1,0 +1,11 @@
+.bod {
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.bodbottom {
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.bod1 {
+    border-style : none;
+}
